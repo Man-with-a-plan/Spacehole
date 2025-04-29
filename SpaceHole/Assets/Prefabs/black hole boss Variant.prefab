@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1221673635357787667
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8567761013055561581, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_Name
+      value: black hole boss Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567761013055561581, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_TagString
+      value: asteroid
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342544708704, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: health
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342544708704, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: healthBar
+      value: 
+      objectReference: {fileID: 7704258978626106484, guid: e0448fb347b09a04a8243e741be082bd, type: 3}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: hole
+      value: 
+      objectReference: {fileID: 7355095681040128382}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 3175858567519576567, guid: a5b5054e38313ec488af4f0241d3fdeb, type: 3}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: sheeee
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: Enemyies
+      value: 
+      objectReference: {fileID: 7631852297335260579, guid: f5ca76555c556eb4192537c6e383a392, type: 3}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: waitTime
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: intensity
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: playerBody
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: influenceRange
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: attractionspeed
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802185342785440448, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: distanceToPlayer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9055926946351695319, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8802185342785440474, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+    - {fileID: 8802185342544708704, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+--- !u!1 &7355095681040128382 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8567761013055561581, guid: 9f7027ca72877404e9bd39640fb53b9f, type: 3}
+  m_PrefabInstance: {fileID: 1221673635357787667}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5163001633006924279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7355095681040128382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5081b62c11742f14380d11205eeb3690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotation: {x: 0, y: 0, z: 0}
+  health: 50
+  maxHealth: 10
+  healthBar: {fileID: 7704258978626106484, guid: e0448fb347b09a04a8243e741be082bd, type: 3}
+  explosionPrefab: {fileID: 1000012903210382, guid: f5372afb6dc3b96469848137924f824a, type: 3}
+  blackhole: {fileID: 0}
+  littleshit: {fileID: 0}
